@@ -1,6 +1,6 @@
 # Automated DevSecOps Pipeline
 
-<img width="370" height="148" alt="image" src="https://github.com/user-attachments/assets/a1b65eab-c290-4fe6-ab36-45ec290b7747" />
+<img width="780" height="496" alt="image" src="https://github.com/user-attachments/assets/035c7d35-a939-42c5-8cd9-a28c70c9ff51" />
 
 
 An application security project demonstrating how automated security testing can be integrated into a CI/CD workflow using GitHub Actions, with a deliberately vulnerable Flask application as the assessment target.
